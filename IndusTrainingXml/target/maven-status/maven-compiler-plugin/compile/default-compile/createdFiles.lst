@@ -1,0 +1,5 @@
+com/indus/training/java/domain/CalciInput.class
+com/indus/training/java/ICalculator.class
+com/indus/training/java/domain/CalciOutput.class
+com/indus/training/Application.class
+com/indus/training/java/impl/Calculator.class
